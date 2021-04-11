@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Add Book"
+        android:id="@+id/menu_add"
+        app:showAsAction="always"
+        android:icon="@drawable/addicon"></item>
+    <item android:title="Search"
+        android:id="@+id/menuSearch"></item>
+    <item android:title="Help"
+        android:id="@+id/menuHelp"></item>
+</menu>
